@@ -4,12 +4,12 @@ VueJS server with all needed packages to start working
 
 ---
 
-## Development
+## Install all the dependencies
 ```console
 npm install
 ```
 
-## Development
+## Running development server
 ```console
 npm run build
 ```

@@ -9,7 +9,7 @@ npm install --save-param
 
 ## Running development server
 ```console
-npm run build
+npm run dev
 ```
 
 ## Building for production

@@ -4,7 +4,7 @@ VueJS server with all needed packages to start working
 
 ## Install all the dependencies
 ```console
-npm install
+npm install --save-param
 ```
 
 ## Running development server
